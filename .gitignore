@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (si llegas a usarlas de nuevo)
+.env
+
+# Builds del frontend
+dist/
+.npm/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
